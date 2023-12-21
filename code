@@ -1,3 +1,8 @@
+#  contributors : Vedant Joshi - 202003001, Tirth Vadaria - 202003004
+#  Guide : Prof. Manish Gupta 
+#  DAIICT
+
+
 import numpy as np
 import pandas as pd
 from sklearn.model_selection import train_test_split
